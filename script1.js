@@ -18,7 +18,7 @@ function fmain(data) {
 		case 'Smoke'        : wynik = 'Zadymienie'; break;  // nr - 6
 		case 'Haze'         : wynik = 'Mgiełka';    break;  // nr - 7
 		case 'Fog'          : wynik = 'Mgliście';   break;  // nr - 8
-		case 'Sand'         : wynik = 'Pisczyście'; break;  // nr - 9
+		case 'Sand'         : wynik = 'Piaszczyście'; break;  // nr - 9
 		case 'Dust'         : wynik = 'Zapylenie';  break;  // nr - 10
 		case 'Ash'          : wynik = 'Popiół';     break;  // nr - 11
 		case 'Squall'       : wynik = 'Szkwał';     break;  // nr - 12		

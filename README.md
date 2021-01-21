@@ -11,8 +11,9 @@ design features
 * useful functionality - the background of the page changes and depends on the weather in the city you enter in the input field
 
 #### Before using
-* before using it, you need to enter API key in the file - script.js, info in README
+* before using it, you need to enter API key in the file - script1.js, info in README
 * key download page - https://openweathermap.org/api
+* replace code from script1.js to script.js - app is ready to use
 
 #### image from the page
 

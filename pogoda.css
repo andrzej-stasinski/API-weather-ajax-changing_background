@@ -25,7 +25,7 @@ body {
     color: orange;
 }
 #wrapper h2, #result h3 p, #result h3 em  {
-    color: rgb(15, 218, 32);
+    color: rgb(18, 128, 27);
 } 
 #result h3 p, #result h3 em  {
     width: 100px;
